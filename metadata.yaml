@@ -1,0 +1,31 @@
+_repo: Mildred-s-New-Daughter_38978
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Finley, Martha
+    aliases:
+    - Farquharson, Martha
+    - Cousin Martha
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '2044'
+    url: http://www.gutenberg.org/2009/agents/2044
+    wikipedia: http://www.readseries.com/auth-dm/finley1.html
+description: ''
+gutenberg_issued: '2012-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38978'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Orphans -- Juvenile fiction'
+title: Mildred's New Daughter
+url: http://www.gutenberg.org/ebooks/38978
